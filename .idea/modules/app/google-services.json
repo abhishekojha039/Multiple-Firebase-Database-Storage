@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605802994173",
+    "firebase_url": "https://multipleuser-eafe2.firebaseio.com",
+    "project_id": "multipleuser-eafe2",
+    "storage_bucket": "multipleuser-eafe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605802994173:android:8af825a65705181a2a2194",
+        "android_client_info": {
+          "package_name": "com.example.multiple_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605802994173-b88gfngreikukmo9uodj8qq0n7f40iqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multiple_user",
+            "certificate_hash": "3e14217db7d81c8759235778f78aeeca6ee71e36"
+          }
+        },
+        {
+          "client_id": "605802994173-8k970mkdpu8s9q8u9hgq53b8uauga8j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIlCbYYDQRAAO17x8EO4qVm9jvKiUXwYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605802994173-8k970mkdpu8s9q8u9hgq53b8uauga8j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
